@@ -1,2 +1,2 @@
 # jenkins-test
-just for testing jenkins 
+deploy a flask app for testing
